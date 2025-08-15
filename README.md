@@ -53,9 +53,9 @@ The target variable is:
 ## 📈 Results
 
 ### **Linear Regression**
-- **Test R²:** ~73%
-- **Test RMSE:** ~2.04
-- **MSE:** 4.17
+- **Test R²:** ~76.99%
+- **Test RMSE:** ~1.80
+- **MSE:** 3.25
 
 ---
 
